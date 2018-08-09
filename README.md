@@ -19,4 +19,4 @@ C: ReferenceError: fname not defined
 
 D: fnamelname
 
-WRITE YOUR CODE HERE
+WRITE ANSWER HERE
